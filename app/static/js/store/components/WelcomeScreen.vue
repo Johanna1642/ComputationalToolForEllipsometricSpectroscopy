@@ -23,7 +23,7 @@ click the go button and the bottom of the screen. -->
           the goodness of fit (GOF), determined by the χ2 value.</br> </br> 
 
           <p>To know more about the optical theory or the code of this application 
-          <a href="https://www.lifeder.com/chi-cuadrada/">click here</a> . </p>
+          <a href="https://drive.google.com/file/d/1KiIshJzqdeXdKpNF_VVOgsbBzgSeGk26/view?usp=sharing">click here</a> . </p>
 
         </div>
       </div>

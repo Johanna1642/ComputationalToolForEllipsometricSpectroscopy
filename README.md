@@ -23,7 +23,7 @@ This web application is a tool for the analysis of ellipsometric spectroscopy da
 
 ## Authors
 
-[@johanna](https://www.github.com/xxxxxx)
+[@johanna](https://github.com/Johanna1642/ComputationalToolforEllipsometricSpectroscopy.git)
 
 
 ## Installation
